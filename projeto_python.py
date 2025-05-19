@@ -9,16 +9,12 @@ import numpy as np
 from datetime import datetime
 
 # Configurações iniciais (mantidas da pagina principal)
-#data_dir = '/Users/josecunha/Documents/Mestrado/Visualização Avançada de Dados/Projeto/Projeto/Dataset/Crime_by_state'
-#economic_dir = '/Users/josecunha/Documents/Mestrado/Visualização Avançada de Dados/Projeto/Projeto/Dataset/economic_all_data'
-#debug_file_path = '/Users/josecunha/Documents/Mestrado/Visualização Avançada de Dados/Projeto/Projeto/debug.txt'
-#economic_file_path = '/Users/josecunha/Documents/Mestrado/Visualização Avançada de Dados/Projeto/Projeto/Dataset/economic_all_data/ecom_data.csv'
+data_dir = '/Users/josecunha/Documents/Mestrado/Visualização Avançada de Dados/Projeto/Projeto/Dataset/Crime_by_state'
+economic_dir = '/Users/josecunha/Documents/Mestrado/Visualização Avançada de Dados/Projeto/Projeto/Dataset/economic_all_data'
+debug_file_path = '/Users/josecunha/Documents/Mestrado/Visualização Avançada de Dados/Projeto/Projeto/debug.txt'
+economic_file_path = '/Users/josecunha/Documents/Mestrado/Visualização Avançada de Dados/Projeto/Projeto/Dataset/economic_all_data/ecom_data.csv'
 
 
-data_dir = 'C:/Users/marta/OneDrive - Universidade de Coimbra/Mestrado/1 ano/2 semestre/VAD/Projeto/Dataset/Crime_by_state'
-economic_dir = 'C:/Users/marta/OneDrive - Universidade de Coimbra/Mestrado/1 ano/2 semestre/VAD/Projeto/Dataset/economic_all_data'
-debug_file_path = 'C:/Users/marta/OneDrive - Universidade de Coimbra/Mestrado/1 ano/2 semestre/VAD/Projeto/debug.txt'
-economic_file_path = 'C:/Users/marta/OneDrive - Universidade de Coimbra/Mestrado/1 ano/2 semestre/VAD/Projeto/Dataset/economic_all_data/ecom_data.csv'
 
 # Função para limpar o arquivo de debug
 def reset_debug():
