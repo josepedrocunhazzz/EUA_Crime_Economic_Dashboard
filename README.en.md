@@ -99,4 +99,4 @@ The map is the spatial entry point; tooltips and detail charts move from a natio
 
 ## Academic context
 
-Developed by **José Cunha and Marta Antunes** for the Advanced Data Visualisation course. See the [final report](VAD_Final_Report.pdf) for the rationale, prototypes, data processing and complete discussion.
+Project presented in **José Cunha's** portfolio and developed for the Advanced Data Visualisation course. Full academic authorship, rationale, prototypes, data processing and discussion are recorded in the [final report](VAD_Final_Report.pdf).

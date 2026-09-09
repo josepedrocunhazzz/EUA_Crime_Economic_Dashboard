@@ -99,4 +99,4 @@ O mapa serve como ponto de entrada espacial; os tooltips e gráficos de detalhe 
 
 ## Contexto académico
 
-Projeto desenvolvido por **José Cunha e Marta Antunes** para a unidade curricular de Visualização Avançada de Dados. Consultar o [relatório final](VAD_Final_Report.pdf) para a fundamentação, protótipos, processamento dos dados e discussão completa.
+Projeto apresentado no portefólio de **José Cunha**, desenvolvido para a unidade curricular de Visualização Avançada de Dados. A autoria académica completa, fundamentação, protótipos, processamento dos dados e discussão encontram-se no [relatório final](VAD_Final_Report.pdf).
